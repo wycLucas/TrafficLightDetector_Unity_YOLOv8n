@@ -3,8 +3,7 @@ This is a simple system that can detect the colors of traffic lights in unity wo
 
 ## Find the code
 **Python:** /Python Server/server.py
-
-**Unity Script:**/Assets/WebSocketsClient.cs
+**Unity Script:**/Assets/WebSocketClient.cs
 
 ## Usage
 1. Make sure the WebSocket port numbers in unity script and python are same and free
